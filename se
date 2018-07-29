@@ -2,3 +2,5 @@ This is Ames.
 And this is the Iowa State University.
 sdn_controller:10.20.2.2
 auth_server:10.30.3.3
+
+colour red
